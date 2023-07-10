@@ -32,8 +32,8 @@ Deployment: Heroku
 ## Installation
 To run the Productivity Analysis, To-Do List, and Task Reminders application locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/productivity-analysis.git
-Navigate to the project directory: cd productivity-analysis
+Clone the repository: git clone https://github.com/KumariAanchal/Productivity-Analyzer.git
+Navigate to the project directory: cd Productivity-Analyzer
 Install the dependencies: npm install
 Set up the database connection in the .env file.
 Start the development server: npm start
