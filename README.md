@@ -1,4 +1,6 @@
 # Productivity Analysis, To-Do List, and Task Reminders
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/time-management-self-control-self-management-target-productivity-metaphors-self-discipline_501813-1180.jpg?w=360">
+
 
 ## Introduction
 
